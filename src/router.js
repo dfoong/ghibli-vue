@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Ghibli from '@/views/Ghibli'
-// TODO: Import new component
+
+import About from "@/views/About"
 
 Vue.use(Router)
 
@@ -11,7 +12,12 @@ export default new Router({
       path: '/',
       name: 'Ghibli',
       component: Ghibli
+    },
+    {
+      path: '/about',
+      name: 'About',
+      component: About
     }
-    // TODO: Add new route definition here.
+
   ]
 })
