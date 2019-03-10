@@ -78,3 +78,29 @@ p {
 .card:nth-child(5n) h1 {
   background-image: linear-gradient(120deg, #ffc3a0 0%, #ffafbd 100%);
 }
+
+/*.card:nth-child(1) p {
+    color: #FFFFFF;
+
+}*/
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+}
+  
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+
+a:link {
+    color:#666;
+    text-decoration: none;
+  }
+
+  /* mouse over link */
+a:hover {
+    color: hsl(202, 100%, 73%);
+ }
