@@ -31,6 +31,15 @@ export default {
       });
   }
 };
+
+import Vue from 'vue'
+import VueAnalytics from 'vue-analytics'
+
+Vue.use(VueAnalytics, {
+  id: 'UA-136406372-1',
+  checkDuplicatedScript: true
+})
+
 </script>
 
 <style scoped>
