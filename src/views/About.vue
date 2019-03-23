@@ -20,7 +20,8 @@ Debbie was born in Singapore and grew up around the world - South Africa, Japan,
 你好，如果你在看我的网站，我好感谢！我是新加坡人，现住在西雅图。我的工作是UX设计师，在Pushpay。我平常做手机的应用。如果你也有计划想跟我说，请信息我！谢谢。<br>
   </p>
   <p>
-    Links here - to github, to linked in 
+<a href="https://github.com/dfoong" target="_blank">Debbie's Github</a><br>
+<a href="https://www.linkedin.com/in/dbfoong" target="_blank">Linked In</a><br>
     </p>
 
   </div>

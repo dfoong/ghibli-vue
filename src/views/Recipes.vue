@@ -6,11 +6,11 @@
     <br>
     <i>Dedicated to Cameron Forras.</i></a>
 </p>
-      <img src="../assets/gb_1.jpg">
-      <img src="../assets/gb_2.jpg">
-      <img src="../assets/gb_3.jpg">
-      <img src="../assets/gb_4.jpg">
-      <img src="../assets/gb_5.jpg">
+      <img src="../assets/gb_1.jpg" alt="Ramen noodles from Ponyo">
+      <img src="../assets/gb_2.jpg" alt="Croquettes from From Up on Poppy Hill">
+      <img src="../assets/gb_3.jpg" alt="Eggs and Bacon from Howl's Moving Castle">
+      <img src="../assets/gb_4.jpg" alt="Tea And Cake From The Wind Rises">
+      <img src="../assets/gb_5.jpg" alt="Picnic From When Marnie Was There">
       
   </div>
 </template>

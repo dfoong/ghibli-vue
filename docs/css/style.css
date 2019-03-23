@@ -19,7 +19,7 @@ html {
 h1 {
     text-align: center;
     padding: 1.5rem 2.5rem;
-    background-image: linear-gradient(120deg, #fbc2eb 0%, #a6c1ee 100%);
+    background-image: linear-gradient(120deg, #5206b5 0%, #920D68 100%);
     margin: 0 0 2rem 0;
     font-size: 1.5rem;
     color: white;
@@ -68,16 +68,39 @@ p {
 }
 
 .card:nth-child(2n) h1 {
+    background-image: linear-gradient(120deg, #2434b2 0%, #0095e0 100%);
+  }
+
+  .card:nth-child(4n) h1 {
+    background-image: linear-gradient(120deg, #025f2c 0%, #a0b505 100%);
+  }
+
+  .card:nth-child(5n) h1 {
+    background-image: linear-gradient(120deg, #c10021 0%, #f66915 100%);
+  }
+
+/*Future color combos:
+blue: #3748cf + #10a0d2
+aqua blue:  #58d7c7 0% + #10a0d2 100%
+
+
+*/
+
+/*Former green + lt blue
+.card:nth-child(2n) h1 {
   background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
 }
 
+Former dark red + lt pink
 .card:nth-child(4n) h1 {
   background-image: linear-gradient(120deg, #ff9a9e 0%, #fecfef 100%);
 }
 
+Former peach + orange
 .card:nth-child(5n) h1 {
   background-image: linear-gradient(120deg, #ffc3a0 0%, #ffafbd 100%);
 }
+*/
 
 /*.card:nth-child(1) p {
     color: #FFFFFF;
@@ -102,5 +125,5 @@ a:link {
 
   /* mouse over link */
 a:hover {
-    color: hsl(202, 100%, 73%);
+    color: #10a0d2;
  }
