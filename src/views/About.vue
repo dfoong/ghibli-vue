@@ -15,7 +15,7 @@ This project is built on the following:<br>
 Currently a UX designer for iOS and Android apps, Debbie has foundational skills in front-end web development (Javascript included)! Her specialties include design, corporate branding, and eating good food.
 <br><br>
 What makes her stand out?<br>
-Debbie was born in Singapore and grew up around the world - South Africa, Japan, Canada, Hong Kong (SAR) and the United States, to name a few! With her Communications background and multicultural experiences, your team will never make a cultural faux pas in the global tech world again.
+Debbie was born in Singapore and grew up in several countries around the world - South Africa, Japan, Canada, Hong Kong (SAR) and the United States, to name a few! With her Communications background and multicultural experiences, your team will never make a cultural faux pas in the global tech world again.
 <br><br>
 你好，如果你在看我的网站，我好感谢！我是新加坡人，现住在西雅图。我的工作是UX设计师，在Pushpay。我平常做手机的应用。如果你也有计划想跟我说，请信息我！谢谢。<br>
   </p>
